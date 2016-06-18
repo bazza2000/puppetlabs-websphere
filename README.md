@@ -6,6 +6,8 @@ __Puppet Forge:__ [https://forge.puppetlabs.com/joshbeard/websphere](https://for
 
 #### Table of Contents
 
+
+0. TOC
 1. [Overview](#overview)
 2. [TODO](#todo)
 3. [Reference](#reference)
